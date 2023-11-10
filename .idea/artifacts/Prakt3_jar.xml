@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Prakt3:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Prakt3_jar</output-path>
+    <root id="archive" name="Prakt3.jar">
+      <element id="module-output" name="Prakt3" />
+    </root>
+  </artifact>
+</component>
