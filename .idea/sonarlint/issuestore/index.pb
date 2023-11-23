@@ -41,7 +41,5 @@ _
 /src/components/builders/PowerSupplyBuilder.java,0\3\03d7e42cb0beb36a9afd6be3bc46bee54551cfff
 Q
 !src/components/CoolingSystem.java,a\3\a3691156cb6ee2bf4d86d545f6d8818393c4a869
-_
-/src/components/builders/CoolingTypeBuilder.java,7\a\7a94fcfc238c5c602f95a9638464c5593f83adb8
 a
 1src/components/builders/CoolingSystemBuilder.java,d\c\dc178c97f98dc1bb06cb37b9e7c7765604ea0ac6

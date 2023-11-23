@@ -1,8 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="80ffe8c9-74c7-4921-b7ab-f607c30a2150" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/3/03d7e42cb0beb36a9afd6be3bc46bee54551cfff" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/3/03d7e42cb0beb36a9afd6be3bc46bee54551cfff" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/4/24b820ff5a8e822e1e1fd7b6c4e1a223099d6739" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/4/24b820ff5a8e822e1e1fd7b6c4e1a223099d6739" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/b/2b447ada90d7fcd9348707a3e22ca4dc7dbcbfda" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/b/2b447ada90d7fcd9348707a3e22ca4dc7dbcbfda" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/8/48b5e587ba07bf4d9a1f4cdcb12df1c2e7a9d970" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/8/48b5e587ba07bf4d9a1f4cdcb12df1c2e7a9d970" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/b/4bd9317d6aa46d9751703a54250df0f17b091ed2" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/b/4bd9317d6aa46d9751703a54250df0f17b091ed2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/6/56c0d5382f3a76c6c6e7097f68e66ed87b13b129" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/6/56c0d5382f3a76c6c6e7097f68e66ed87b13b129" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/a/7a94fcfc238c5c602f95a9638464c5593f83adb8" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/a/ba9f759ad5879bcf7270727dac8e57f23b5397e6" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/a/ba9f759ad5879bcf7270727dac8e57f23b5397e6" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/7/a/7a94fcfc238c5c602f95a9638464c5593f83adb8" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/ComputerConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/ComputerConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/CoolingSystem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/CoolingSystem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/GraphicsCard.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/GraphicsCard.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/HardDrive.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/HardDrive.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Motherboard.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Motherboard.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/PowerSupply.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/PowerSupply.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Processor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Processor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/RAM.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/RAM.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/builders/CoolingSystemBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/builders/CoolingSystemBuilder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/builders/GraphicsCardBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/builders/GraphicsCardBuilder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/builders/HardDriveBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/builders/HardDriveBuilder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/builders/MotherboardBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/builders/MotherboardBuilder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/builders/PowerSupplyBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/builders/PowerSupplyBuilder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/builders/ProcessorBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/builders/ProcessorBuilder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/builders/RAMBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/builders/RAMBuilder.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -12,11 +41,13 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 3
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
   <component name="ProjectId" id="2Xhxlx8rhv9fWnbY0jP5MFVscZX" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -26,7 +57,11 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "main",
+    "node.js.detected.package.eslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
     "onboarding.tips.debug.path": "C:/Users/Professional/Desktop/ООП/Prakt2_04.11.2023/Prakt3_04.11.2023/Prakt3/src/Main.java",
     "vue.rearranger.settings.migration": "true"
   }
@@ -40,15 +75,33 @@
       <option name="presentableId" value="Default" />
       <updated>1699095267931</updated>
       <workItem from="1699095268922" duration="1000" />
+      <workItem from="1700673998787" duration="23000" />
+      <workItem from="1700751614947" duration="99000" />
+      <workItem from="1700751736993" duration="452000" />
+      <workItem from="1700752284954" duration="1396000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/Main.java</url>
-          <line>14</line>
+          <line>13</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
       </breakpoints>
